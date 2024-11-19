@@ -1,0 +1,5 @@
+Meow;TPHCM;9045495;Meow@email;NCC001
+Fish;Hà Nội;549844;Fish@email;NCC002
+Dog;TPHCM;9045495;Meow@email;NCC001
+Bird;Hà Nội;549844;Fish@email;NCC002
+Car;Hu?;09090909;Car@gmail.com;NCC003
